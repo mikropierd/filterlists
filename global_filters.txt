@@ -1,0 +1,208 @@
+# GLOBAL
+*/partner.ads.js
+
+# appstorrent
+appstorrent.ru###cookie_modal
+appstorrent.ru##.locked
+appstorrent.ru##.footer
+appstorrent.ru##section.main-page
+appstorrent.ru##.medium.button
+appstorrent.ru##.stop_scroll_top
+appstorrent.ru###scroll_top
+appstorrent.ru##.icon-update
+appstorrent.ru##.lang
+appstorrent.ru##.related-news
+appstorrent.ru##.block-fav
+appstorrent.ru##.virus
+appstorrent.ru##.new-comment
+appstorrent.ru##.discuss
+appstorrent.ru##.right > .right
+appstorrent.ru###cookie_modal
+appstorrent.ru##.locked
+appstorrent.ru##.footer
+appstorrent.ru##section.main-page
+appstorrent.ru##.medium.button
+appstorrent.ru##.stop_scroll_top
+appstorrent.ru###scroll_top
+appstorrent.ru##.icon-update
+appstorrent.ru##.lang
+appstorrent.ru##.related-news
+appstorrent.ru##.block-fav
+appstorrent.ru##.virus
+appstorrent.ru##.new-comment
+appstorrent.ru##.discuss > .title
+appstorrent.ru##.discuss
+appstorrent.ru##.right > .right
+
+# discussions.apple.com
+discussions.apple.com###ac-globalfooter
+discussions.apple.com##.recommendations
+discussions.apple.com##.action-bar-content
+discussions.apple.com##.timestamp
+discussions.apple.com##.signature
+discussions.apple.com##.header
+discussions.apple.com##.locked-thread
+discussions.apple.com##.announcements
+discussions.apple.com##.reply-bar-content
+discussions.apple.com##.css-sticky.localnav-scrim.localnav
+discussions.apple.com##.breadcrumbs
+discussions.apple.com##.globalheader-light.globalnav-scrim
+discussions.apple.com##.question-wrapper
+discussions.apple.com##.form-alert
+discussions.apple.com##.persist-question
+discussions.apple.com##.all-replies-header
+
+# WIKIPEDIA
+wikipedia.org##.reference
+wikipedia.org##.vector-page-titlebar.mw-body-header
+wikipedia.org##.vector-page-toolbar
+wikipedia.org##.vector-body-before-content
+wikipedia.org##.vector-header-container
+wikipedia.org###References
+wikipedia.org##.mw-editsection
+wikipedia.org##.mw-footer-container
+wikipedia.org##.sistersitebox.plainlinks.side-box-right.side-box
+wikipedia.org##.Template-Fact.Inline-Template.noprint
+wikipedia.org###CITEREFUCB_Pharma_Limited2005
+wikipedia.org##.cs1.journal.citation
+wikipedia.org##.mw-parser-output.mw-content-ltr > ul:nth-of-type(3) > li
+wikipedia.org###External_links
+wikipedia.org##.navbar-mini.hlist.plainlinks.navbar
+wikipedia.org##.reflist-columns-2.references-column-width.reflist-columns.reflist
+wikipedia.org##.reflist
+wikipedia.org###Further_reading
+wikipedia.org##.refbegin
+wikipedia.org##.text.external
+wikipedia.org##.cs1.web.citation
+wikipedia.org##sup.Inline-Template.noprint
+en.m.wikipedia.org###Notes
+en.m.wikipedia.org##.header-chrome.header-container
+en.m.wikipedia.org##.heading-holder.pre-content
+m.wikipedia.org###Notes
+m.wikipedia.org##.header-chrome.header-container
+m.wikipedia.org##.heading-holder.pre-content
+
+# PORTAL FIZJOTERAPEUTY
+fizjoterapeuty.pl##.elementor-location-header.elementor-26278.elementor
+fizjoterapeuty.pl##.elementor-element-6ec197b9.elementor-element.elementor-top-column.elementor-col-33.elementor-column
+fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-hidden-phone.elementor-section-items-top.elementor-section-height-min-height.elementor-element-1446e3cf.elementor-element.elementor-top-section.elementor-section
+fizjoterapeuty.pl##.e-lazyloaded.elementskit-parallax-multi-container.e-parent.e-con.e-con-boxed.e-flex.elementor-element-67caa9a.elementor-element
+fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-element-5789672d.elementor-element.elementor-top-section.elementor-section
+fizjoterapeuty.pl##.is-mac.elementor-widget-image.elementor-widget.elementor-element-1403478.elementor-element
+fizjoterapeuty.pl##.is-mac.elementor-widget-heading.elementor-widget.elementor-element-a460ea1.elementor-element
+fizjoterapeuty.pl##b
+fizjoterapeuty.pl##.glend673bdcaba3895
+fizjoterapeuty.pl##.is-mac.elementor-widget-image.elementor-widget.elementor-element-af65ea1.elementor-element
+fizjoterapeuty.pl##table
+fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-element-701c45bf.elementor-element.elementor-inner-section.elementor-section
+fizjoterapeuty.pl##.elementor-element-b6f1060.elementor-element.elementor-top-column.elementor-col-50.elementor-column
+fizjoterapeuty.pl##.gofollow
+
+# MP.PL
+www.mp.pl###right_box
+www.mp.pl###footer
+www.mp.pl##.ue-logo.col-xs-12
+www.mp.pl##.ad-right-swim-box
+www.mp.pl###comments-async
+www.mp.pl##.articles-see-also
+www.mp.pl##.info-box
+www.mp.pl###top-link-block
+www.mp.pl###top-board
+www.mp.pl##header
+www.mp.pl##.questo-paywall.pismienictwo.source
+www.mp.pl##.questo-paywall.ramka
+
+# GITHUB.COM
+github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
+github.com##.js-notice.BorderGrid-row
+github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
+github.com##.AppHeader-globalBar-start > deferred-side-panel
+github.com##.cm-panels-bottom.cm-panels
+github.com##.iXNuQB.Box-sc-g0xbh4-0
+github.com##.position-relative.AppHeader-actions
+github.com###security-tab
+github.com###pull-requests-tab
+github.com###actions-tab
+github.com###insights-tab
+github.com##.discussion-timeline-actions
+github.com##.discussion-sidebar-item
+github.com##.d-flex.reactions-container.social-reactions.js-reaction-buttons-container.js-reactions-container.just-bottom.comment-reactions
+github.com##.d-md-block.d-none.TimelineItem-avatar.avatar-parent-child
+github.com##.d-flex.clearfix.timeline-comment-header
+github.com##show-dialog-on-load
+github.com##.bVgnfw.Box-sc-g0xbh4-0
+github.com##.hTYflC.Box-sc-g0xbh4-0
+github.com##.col-lg-3.col-md-4
+github.com##.flash-notice.flash-full.flash
+github.com## .react-directory-row-commit-cell .react-directory-commit-message > .Link--secondary
+github.com###issues-index-tip
+github.com##.jRFAHs.Box-sc-g0xbh4-0
+github.com##.eDcZlN.Box-sc-g0xbh4-0
+github.com##.AppHeader-CopilotChat
+
+# gist.github.com
+gist.github.com##.js-quote-selection-container
+gist.github.com##.d-inline-flex.flex-items-center
+gist.github.com##.js-remove-unless-platform.Button--small.Button--secondary.Button--iconOnly.Button
+gist.github.com##.gistsearch-aside.col-4
+
+# www.icloud.com
+www.icloud.com##header
+www.icloud.com##.footer
+
+# userstyles.world
+userstyles.world##.Footer
+
+# kagi.com
+kagi.com##.xl\:flex-row.flex-column.justify-between.align-center.flex.mt-a.app-footer
+kagi.com##DIV:nth-child(7)>FOOTER:nth-child(3)>DIV:nth-child(1)
+kagi.com##div:nth-child(7) > footer:nth-child(3) > div:nth-child(1)
+
+# freedium.cfd
+freedium.cfd###header
+freedium.cfd##.pb-3.font-bold.text-green-500.md\:text-sm.text-base
+freedium.cfd##.mt-5.gap-2.flex-wrap.flex
+freedium.cfd##.left-4.bottom-4.fixed
+freedium.cfd##.mt-5.m-2.border-gray-300.border.dark\:bg-gray-600.bg-gray-100
+
+# SCRIBE.RIP
+scribe.rip##.marginnote
+scribe.rip##.meta
+
+# forums.macrumors.com
+forums.macrumors.com##.p-footer
+forums.macrumors.com##.p-breadcrumb--bottom.breadcrumb
+forums.macrumors.com##.block-outer--after.block-outer
+forums.macrumors.com##.th_node--overwriteTextStyling.th_node--hasCustomIcon.node--search.node-header-224.p-body-header
+forums.macrumors.com##.p-sectionLinks
+forums.macrumors.com##.p-nav
+forums.macrumors.com##.p-header
+forums.macrumors.com##.message-cell--user.message-cell
+forums.macrumors.com##.message-attribution-opposite--list.message-attribution-opposite
+forums.macrumors.com##.message-lastEdit
+forums.macrumors.com##.th_node--overwriteTextStyling.th_node--hasCustomIcon.node--search.node-header-146.p-body-header
+forums.macrumors.com##div.breadcrumb
+forums.macrumors.com##.p-description
+forums.macrumors.com##.is-active.js-reactionsList.reactionsBar
+
+# ALLEGRO.PL
+allegro.pl##div._13850_snykB.m3h2_16.mp7g_q5.eut9m
+allegro.pl##.mpof_z0_s.mpof_5r.mp7g_oh.mlkp_ag.mnyp_co.mx7m_1.msts_pt
+allegro.pl##._535b5_87k6-.mnyp_co.mlkp_ag.m911_co.mx7m_1.mj7a_8.mvrt_8.mg9e_8.mse2_40.mp7g_oh.mjyo_6x.m389_6m.mpof_ki
+allegro.pl##.notranslate._26211_Hohf4.msts_pt.mjb5_w0.mj7u_0.mqm6_0.mnjl_0.mq1m_0.mp7g_oz
+allegro.pl##._13850_D0eRg.mp7g_f6.mpof_vs_x.mpof_5r
+allegro.pl##._13850_p0XNi.mzmg_f9.munh_0_l.munh_16_s.munh_8.mpof_vs_x.mpof_5r._13850_z9wDq.m6ax_n4.meqh_en.msa3_z4.munh_0.mryx_0.m3h2_0.mp4t_0.mli8_k4.mgmw_wo.mqu1_21.mp0t_0a.mgn2_14.mp7g_oh
+allegro.pl##DIV:nth-child(3)>[id='chat-container']>DIV:nth-child(2)>BUTTON:nth-child(1)
+
+# SOFTARCHIVE
+softarchive.is##.ab
+softarchive.is##.clear.site_footer
+softarchive.is##.posts-results
+softarchive.is##.cat-header-flex.plr0.fffbg
+softarchive.is###filter-float-bar-block-mod
+softarchive.is##div.header__inner:nth-of-type(1)
+softarchive.is##.header__inner_justify_end.header__inner
+softarchive.is##.view-setup
+softarchive.is##.firstr
+softarchive.is###\30
+softarchive.is##.clear.site_footer
