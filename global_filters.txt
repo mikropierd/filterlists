@@ -206,3 +206,21 @@ softarchive.is##.view-setup
 softarchive.is##.firstr
 softarchive.is###\30
 softarchive.is##.clear.site_footer
+
+# HYPERREAL
+
+hyperreal.info##.d-lg-none
+hyperreal.info###page-body > div.row > .col-lg-3
+hyperreal.info##.mb-3.shadow-sm.border.bg1.navbar-light.navbar-expand-md.navbar
+hyperreal.info##.order-lg-last.order-first.col-lg-9 > div.card > .card-body
+hyperreal.info###nav-breadcrumbs
+hyperreal.info##div#page-footer.justify-content-md-between.d-md-flex.px-3.mb-3.page-footer
+hyperreal.info##.panel-title
+hyperreal.info##.active.carousel-item > .slider-inner.row > .col-xs-8.col-lg-9.col-sm-9.col-md-9 > p.lead:nth-of-type(1)
+hyperreal.info##.karuzela-text
+hyperreal.info##.fa-5x.hicon-hyperreal
+hyperreal.info##body > div.row
+hyperreal.info##.alert-warning.alert
+hyperreal.info##.d-lg-block.d-none
+hyperreal.info##.justify-content-end.mb-md-0.mb-1.navbar-light.navbar-expand-md.navbar
+
