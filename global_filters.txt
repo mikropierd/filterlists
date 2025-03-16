@@ -139,6 +139,17 @@ github.com###issues-index-tip
 github.com##.jRFAHs.Box-sc-g0xbh4-0
 github.com##.eDcZlN.Box-sc-g0xbh4-0
 github.com##.AppHeader-CopilotChat
+github.com##.no-anim.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
+github.com##.no-anim.color-fg-muted.f6.pb-6.pt-8.footer
+github.com##.no-anim.AppHeader-CopilotChat
+github.com##.no-anim.border-bottom.mb-5.feed-right-sidebar
+github.com##.no-anim.copilotPreview__container
+github.com##.no-anim.position-relative.AppHeader-actions
+github.com##.no-anim.AppHeader-globalBar-start > deferred-side-panel.no-anim
+github.com##.no-anim.rounded-1.border.blankslate-spacious.blankslate
+github.com##.no-anim.flex-items-center.flex-justify-between.d-flex.my-3
+github.com##div.no-anim.react-code-size-details-in-header
+
 
 # gist.github.com
 gist.github.com##.js-quote-selection-container
@@ -193,6 +204,11 @@ allegro.pl##.notranslate._26211_Hohf4.msts_pt.mjb5_w0.mj7u_0.mqm6_0.mnjl_0.mq1m_
 allegro.pl##._13850_D0eRg.mp7g_f6.mpof_vs_x.mpof_5r
 allegro.pl##._13850_p0XNi.mzmg_f9.munh_0_l.munh_16_s.munh_8.mpof_vs_x.mpof_5r._13850_z9wDq.m6ax_n4.meqh_en.msa3_z4.munh_0.mryx_0.m3h2_0.mp4t_0.mli8_k4.mgmw_wo.mqu1_21.mp0t_0a.mgn2_14.mp7g_oh
 allegro.pl##DIV:nth-child(3)>[id='chat-container']>DIV:nth-child(2)>BUTTON:nth-child(1)
+allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-8b731.opbox-sheet
+allegro.pl###search-results > div > .carousel-item.mjru_ey._17d9e_7VF-Y.m3h2_56.munh_56.m7er_k4.opbox-sheet-wrapper
+allegro.pl##.mvrt_16.mh36_16.mj7a_16.mg9e_0_m.mg9e_4.msts_pt
+allegro.pl##.mjb5_w1.m3h2_16.mryx_16.mnjl_0.mqm6_0.mp7g_oz
+
 
 # SOFTARCHIVE
 softarchive.is##.ab
@@ -223,4 +239,5 @@ hyperreal.info##body > div.row
 hyperreal.info##.alert-warning.alert
 hyperreal.info##.d-lg-block.d-none
 hyperreal.info##.justify-content-end.mb-md-0.mb-1.navbar-light.navbar-expand-md.navbar
+
 
