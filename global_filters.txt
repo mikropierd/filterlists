@@ -149,6 +149,10 @@ github.com##.no-anim.AppHeader-globalBar-start > deferred-side-panel.no-anim
 github.com##.no-anim.rounded-1.border.blankslate-spacious.blankslate
 github.com##.no-anim.flex-items-center.flex-justify-between.d-flex.my-3
 github.com##div.no-anim.react-code-size-details-in-header
+github.com##.position-relative.pt-6.footer
+github.com##.font-mktg
+github.com##.jEnfAc.Box-sc-g0xbh4-0
+
 
 
 # gist.github.com
@@ -240,4 +244,32 @@ hyperreal.info##.alert-warning.alert
 hyperreal.info##.d-lg-block.d-none
 hyperreal.info##.justify-content-end.mb-md-0.mb-1.navbar-light.navbar-expand-md.navbar
 
+# PIPED
+piped.video##.children\:mx-3.text-center.py-4.rounded-xl.w-full.mt-10
+piped.video##.z-10.-ml-5
+piped.video##.flex-none.max-w-96
+piped.video##.rounded-full
+piped.video##.flex-auto > .flex-col.flex
+piped.video##.mb-2.btn
+piped.video##hr
+piped.video##li:nth-of-type(1)
+piped.video###chkAutoPlay
+piped.video##.flex-auto > .ml-1\.5
+piped.video##.md\:items-center.md\:flex-row.children\:gap-1.children\:items-center.children\:flex.gap-2.flex-wrap.flex-col.flex
+piped.video##.font-bold.text-center.my-4
+piped.video##li:nth-of-type(4) > .nav-link
+piped.video##.i-fa6-solid\:headphones
+piped.video##.video-info .i-fa6-solid\:eye
+piped.video##.ml-1\.5.i-fa6-solid\:check
+piped.video##.gap-2\.5.items-center.flex
+piped.video##.flex-auto > label
+piped.video##.gap-1.flex-wrap.flex.ml-auto
+piped.video##.shaka-play-button-container
+piped.video##.gap-2.flex > button.btn:nth-of-type(2)
+piped.video##.flex-col.btn
+piped.video##.py-2.whitespace-pre-wrap.mx-1
+piped.video##.\!text-xl.i-fa6-solid\:check
+piped.video##a.btn
+piped.video##div.gap-2.flex > div.items-center.flex
+piped.video##.ml-1.i-fa6-solid\:check
 
