@@ -386,3 +386,15 @@ red.artemislena.eu##.post_score
 red.artemislena.eu##.nsfw
 red.artemislena.eu##.post_author
 red.artemislena.eu##span.dot
+
+# KAGI
+kagi.com###top-parent
+kagi.com##.app_nav_dropdown.k_ui_dropdown._0_k_ui_dropdown
+kagi.com##.clipboardCopy.mr-7.align-center.flex._0_share_search_button
+kagi.com##.ic
+kagi.com##div.filter-item.dropdown:nth-of-type(1) > .dd-toggle-label
+kagi.com##div.filter-item.dropdown:nth-of-type(2) > .dd-toggle-label
+kagi.com###menu-advanced-search-toggle
+kagi.com##.sidebar-filter-nav-form
+kagi.com##footer
+kagi.com##.clipboardCopy._0_share_url_footer
