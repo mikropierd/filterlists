@@ -387,6 +387,8 @@ red.artemislena.eu##.post_score
 red.artemislena.eu##.nsfw
 red.artemislena.eu##.post_author
 red.artemislena.eu##span.dot
+red.artemislena.eu##.post_thumbnail
+
 
 # KAGI
 kagi.com###top-parent
