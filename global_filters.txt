@@ -119,6 +119,7 @@ www.mp.pl###top-board
 www.mp.pl##header
 www.mp.pl##.questo-paywall.pismienictwo.source
 www.mp.pl##.questo-paywall.ramka
+www.mp.pl###medical-advisor-A
 
 # GITHUB.COM
 github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
