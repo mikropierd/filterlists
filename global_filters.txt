@@ -97,6 +97,14 @@ fizjoterapeuty.pl##table
 fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-element-701c45bf.elementor-element.elementor-inner-section.elementor-section
 fizjoterapeuty.pl##.elementor-element-b6f1060.elementor-element.elementor-top-column.elementor-col-50.elementor-column
 fizjoterapeuty.pl##.gofollow
+fizjoterapeuty.pl##.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-element-5789672d.elementor-element.elementor-top-section.elementor-section
+fizjoterapeuty.pl##.e-lazyloaded.e-parent.e-con.e-con-boxed.e-flex.elementor-element-67caa9a.elementor-element
+fizjoterapeuty.pl##.elementor-location-footer.elementor-26339.elementor
+fizjoterapeuty.pl##.comments-area
+fizjoterapeuty.pl##.elementor-size-default.elementor-heading-title
+fizjoterapeuty.pl##.elementor-post__card
+fizjoterapeuty.pl##.elementor-element-25494b29.elementor-element.elementor-top-column.elementor-col-100.elementor-column
+
 
 # MP.PL
 www.mp.pl###right_box
@@ -243,6 +251,29 @@ hyperreal.info##body > div.row
 hyperreal.info##.alert-warning.alert
 hyperreal.info##.d-lg-block.d-none
 hyperreal.info##.justify-content-end.mb-md-0.mb-1.navbar-light.navbar-expand-md.navbar
+hyperreal.info##.mb-3.shadow-sm.border.bg1.navbar-light.navbar-expand-md.navbar
+hyperreal.info##div#page-footer.justify-content-md-between.d-md-flex.px-3.mb-3.page-footer
+hyperreal.info##.col-lg-3
+hyperreal.info##.alert-warning.alert
+hyperreal.info##.d-lg-none
+hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(7)
+hyperreal.info##.alert-info.alert
+hyperreal.info##.w-100.form-control
+hyperreal.info##.card-header
+hyperreal.info##.active.dropdown-toggle.btn-primary.btn
+hyperreal.info##.shadow-sm.text-center.text-white.border-white.border.bg-primary.rounded-circle.timeline-icon
+hyperreal.info##.mb-1.ms-1.btn-group
+hyperreal.info##.post-title
+hyperreal.info##div.d-flex > .border-0.rounded-0.btn-lg.dropdown-toggle.btn
+hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(4) > .bg1.justify-content-between.d-sm-flex.action-bar > div.d-flex:nth-of-type(1) > form:nth-of-type(1)
+hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(4) > .bg1.justify-content-between.d-sm-flex.action-bar > div.d-flex:nth-of-type(1) > .border-0.rounded-0.btn-lg.btn
+hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(6) > .bg1.justify-content-between.d-sm-flex.action-bar > div.d-flex:nth-of-type(1) > form:nth-of-type(1)
+hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(6) > .bg1.justify-content-between.d-sm-flex.action-bar > div.d-flex:nth-of-type(1) > .border-0.rounded-0.btn-lg.btn
+hyperreal.info##div.mx-auto.col-4.d-grid > .btn-secondary.btn
+hyperreal.info##.fa-fw.fa-file-o.fa
+hyperreal.info##.d-md-none
+hyperreal.info##.shadow-sm.rounded-circle.border-white.border.overflow-hidden.position-relative.timeline-icon
+
 
 # PIPED
 piped.video##.children\:mx-3.text-center.py-4.rounded-xl.w-full.mt-10
@@ -273,3 +304,17 @@ piped.video##a.btn
 piped.video##div.gap-2.flex > div.items-center.flex
 piped.video##.ml-1.i-fa6-solid\:check
 
+# REDLIB
+red.artemislena.eu###reddit_link
+red.artemislena.eu###logo
+red.artemislena.eu##footer
+red.artemislena.eu###commentQueryForms
+red.artemislena.eu##.post_footer
+red.artemislena.eu##.comment_score
+red.artemislena.eu##.no_thumbnail.post_thumbnail
+red.artemislena.eu##[href="/r/Nootropics/controversial"]
+red.artemislena.eu##[href="/r/Nootropics/rising"]
+red.artemislena.eu##.post_score
+red.artemislena.eu##.nsfw
+red.artemislena.eu##.post_author
+red.artemislena.eu##span.dot
