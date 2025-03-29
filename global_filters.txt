@@ -409,3 +409,4 @@ kagi.com###top-parent
 kagi.com##.clipboardCopy._0_share_url_footer
 kagi.com##footer
 kagi.com##.top-panel-box.app-content-box
+kagi.com###additional_info > [href]
