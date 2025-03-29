@@ -408,3 +408,4 @@ kagi.com##.clipboardCopy.mr-7.align-center.flex._0_share_search_button
 kagi.com###top-parent
 kagi.com##.clipboardCopy._0_share_url_footer
 kagi.com##footer
+kagi.com##.top-panel-box.app-content-box
