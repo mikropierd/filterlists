@@ -401,3 +401,10 @@ kagi.com###menu-advanced-search-toggle
 kagi.com##.sidebar-filter-nav-form
 kagi.com##footer
 kagi.com##.clipboardCopy._0_share_url_footer
+kagi.com##._0_filters-panel
+kagi.com##.paywall-icon.new-tooltip.trigger
+kagi.com##.app_nav_dropdown.k_ui_dropdown._0_k_ui_dropdown
+kagi.com##.clipboardCopy.mr-7.align-center.flex._0_share_search_button
+kagi.com###top-parent
+kagi.com##.clipboardCopy._0_share_url_footer
+kagi.com##footer
