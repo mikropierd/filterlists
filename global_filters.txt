@@ -222,9 +222,6 @@ www.icloud.com##.footer
 # userstyles.world
 userstyles.world##.Footer
 
-# kagi.com
-kagi.com##.xl\:flex-row.flex-column.justify-between.align-center.flex.mt-a.app-footer
-
 # freedium.cfd
 freedium.cfd###header
 freedium.cfd##.pb-3.font-bold.text-green-500.md\:text-sm.text-base
@@ -416,3 +413,4 @@ translate.kagi.com##.justify-between.items-center.flex.mb-0
 translate.kagi.com##.dark\:text-white.sm\:px-6.text-black.py-3.px-5.gap-3.justify-between.items-center.flex-wrap.flex
 translate.kagi.com##.svelte-111zzih.lg\:justify-between.lg\:flex-row.text-\[0\.8125rem\].px-6.justify-center.items-center.flex-col.min-h-16.flex
 kagi.com##.newsResultImage
+kagi.com##.xl\:flex-row.flex-column.justify-between.align-center.flex.mt-a.app-footer
