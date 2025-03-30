@@ -61,6 +61,8 @@ wikipedia.org##sup.Inline-Template.noprint
 m.wikipedia.org###Notes
 m.wikipedia.org##.header-chrome.header-container
 m.wikipedia.org##.heading-holder.pre-content
+m.wikipedia.org##.minerva-footer.mw-footer
+m.wikipedia.org##.sister-bar.metadata.noprint
 
 # PORTAL FIZJOTERAPEUTY
 fizjoterapeuty.pl##.elementor-location-header.elementor-26278.elementor
