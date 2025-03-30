@@ -286,6 +286,20 @@ allegro.pl###search-results:not(:has([data-analytics-view-label="BETTER_SORT_APP
 allegro.pl###search-results [data-analytics-view-label="BETTER_SORT_APPLIED"]:has(> button):style(position: absolute !important; z-index: 2147483647 !important; top: 200px !important; background: white !important)
 allegro.pl###search-results [data-analytics-view-label="BETTER_SORT_APPLIED"]:has(> div > button):style(position: absolute !important; z-index: 2147483647 !important; top: 200px !important; background: white !important)
 allegro.pl###search-results:has([data-analytics-view-label="BETTER_SORT_APPLIED"]):style(margin-top: 90px !important)
+allegro.pl##.mh36_8.mj7a_0.mvrt_16.mg9e_8.msts_pt.m7f5_sf.m389_0a.mpof_ki
+allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet-1f5bd.opbox-sheet
+allegro.pl##.root
+allegro.pl##.mse2_40.mh36_0.mj7a_0.mvrt_0.mg9e_0.mgn2_13.mqu1_1.b14a0.m0ux_fp.m31c_kb.mrhf_u8.mrmn_qo.mgmw_u5g.bfwvy.m09p_40.mjt1_n2.m8qd_vz.m2ha_2.mjir_sv.msts_n7.m0qj_5r.meqh_en.mqen_m6.mqvr_2.mm2b_rf.mtag_rf.mldj_rf.msbw_rf.mdwl_5r.mnyp_5r.mefy_5r.m911_5r.munh_0.mryx_0.m3h2_0.mp4t_0.mli8_k4.mtsp_ib.mp7g_oh.m9qz_yp.mp0t_0a._1e32a_lGuTr
+allegro.pl##.mvrt_16.mh36_16.mqu1_1j.mryx_8.mp4t_8.mgmw_wo.m9qz_yo.mp0t_ji.mgn2_21
+allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet-3a1a8.opbox-sheet
+allegro.pl##.mgn2_12.msa3_z4.m389_6m.mpof_ki
+allegro.pl##.mwdn_1.m389_6m.mpof_ki.mgn2_12
+allegro.pl##.mp4t_8
+allegro.pl##.m389_6m.m7f5_sf.myre_8v.mpof_ki
+allegro.pl##.m7f5_0a.m389_6m.mpof_ki.mp7g_oh
+allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet-e67f5.opbox-sheet
+allegro.pl##.m7er_k4.mp4t_16.mwfq_6m.myre_zn.mwdn_1.mpof_ki
+
 
 
 # SOFTARCHIVE
@@ -333,6 +347,7 @@ hyperreal.info##div.mx-auto.col-4.d-grid > .btn-secondary.btn
 hyperreal.info##.fa-fw.fa-file-o.fa
 hyperreal.info##.d-md-none
 hyperreal.info##.shadow-sm.rounded-circle.border-white.border.overflow-hidden.position-relative.timeline-icon
+hyperreal.info##.bg1.pb-0.p-2.nav-tabs.nav
 
 
 # PIPED
