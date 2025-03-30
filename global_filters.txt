@@ -263,7 +263,6 @@ allegro.pl##.mvrt_16.mh36_16.mj7a_16.mg9e_0_m.mg9e_4.msts_pt
 allegro.pl##.mjb5_w1.m3h2_16.mryx_16.mnjl_0.mqm6_0.mp7g_oz
 allegro.pl##._1405b_0ZVn9 > div > .carousel-item.mjru_ey._17d9e_7VF-Y.m3h2_56.munh_56.m7er_k4.opbox-sheet-wrapper
 allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-015f8.opbox-sheet
-allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet
 allegro.pl##.mvrt_16.m389_6m.m7f5_sf.mpof_ki > .mp7g_oh
 allegro.pl##.mgmw_3z.mli8_k4.mqu1_21.mp0t_0a.mgn2_14.m7er_k4.munh_8_m.mg9e_8
 allegro.pl##.mgn2_12.msa3_z4.m389_6m.mpof_ki
@@ -284,10 +283,55 @@ allegro.pl###search-results:not(:has([data-analytics-view-label="BETTER_SORT_APP
 allegro.pl###search-results [data-analytics-view-label="BETTER_SORT_APPLIED"]:has(> button):style(position: absolute !important; z-index: 2147483647 !important; top: 200px !important; background: white !important)
 allegro.pl###search-results [data-analytics-view-label="BETTER_SORT_APPLIED"]:has(> div > button):style(position: absolute !important; z-index: 2147483647 !important; top: 200px !important; background: white !important)
 allegro.pl###search-results:has([data-analytics-view-label="BETTER_SORT_APPLIED"]):style(margin-top: 90px !important)
-#allegro.pl##.root
 allegro.pl##.mse2_40.mh36_0.mj7a_0.mvrt_0.mg9e_0.mgn2_13.mqu1_1.b14a0.m0ux_fp.m31c_kb.mrhf_u8.mrmn_qo.mgmw_u5g.bfwvy.m09p_40.mjt1_n2.m8qd_vz.m2ha_2.mjir_sv.msts_n7.m0qj_5r.meqh_en.mqen_m6.mqvr_2.mm2b_rf.mtag_rf.mldj_rf.msbw_rf.mdwl_5r.mnyp_5r.mefy_5r.m911_5r.munh_0.mryx_0.m3h2_0.mp4t_0.mli8_k4.mtsp_ib.mp7g_oh.m9qz_yp.mp0t_0a._1e32a_lGuTr
-allegro.pl##.mp4t_8
 allegro.pl##.m7f5_0a.m389_6m.mpof_ki.mp7g_oh
+allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet-bcfed.opbox-sheet
+allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-5a0f2.opbox-sheet .carousel-item.mjru_k4._17d9e_7VF-Y.m3h2_56.munh_56.m7er_k4.opbox-sheet-wrapper
+allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-afeeb.opbox-sheet .carousel-item.mjru_ey._17d9e_7VF-Y.m3h2_56.munh_56.m7er_k4.opbox-sheet-wrapper > .a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet
+allegro.pl##.opbox-listing
+allegro.pl##.opbox-carousel
+allegro.pl##.opbox-feedback
+allegro.pl##.opbox-metrum
+allegro.pl##.opbox-hero-carousel
+allegro.pl##.opbox-app-incentive
+allegro.pl##.opbox-allegro-services
+allegro.pl##.opbox-ribbon
+allegro.pl##.opbox-fragment
+allegro.pl##.top-ads
+allegro.pl##.banners-container
+allegro.pl##.recommendedAds
+allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-113e3.opbox-sheet
+allegro.pl##.mjyo_6x.m7er_k4.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.myre_8v.mgmw_wo.m7f5_5x.m389_6m.mpof_ki.l1qs9.mqen_m6.mli8_k4.mj9z_5r.mqu1_21.mp0t_0a.mgn2_14
+allegro.pl##.mgn2_8w.mgmw_wo.munh_0.mryx_0.m3h2_0.mp4t_0.mli8_k4.mqu1_21.mp0t_0a.m7er_k4
+allegro.pl##.m389_5x.myre_8v.mpof_ki
+allegro.pl##._535b5_yrVta.br1ast
+allegro.pl##.m4sx_k5 > .mpof_vs
+allegro.pl##div.mryx_16.g12dg.ggz4y.g1pyo.guv1z.g1s2l._c73a0_3Felu.myre_zn.gel0f.mjyo_6x.mr3m_1.mpof_ki
+allegro.pl##.myre_zn.m7f5_6m.mpof_ki.mp4t_16
+allegro.pl##._e8529_HjRJF.m7er_k4.mp7g_oh
+allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet-7b698.opbox-sheet
+allegro.pl##.bc1xx8.mse2_40.meqh_en
+allegro.pl##.msts_n7.mp4t_0.mgmw_wo.mryx_16.m9qz_yo.mgn2_21_s.mgn2_19.mqu1_1j.m3h2_0.munh_0.mp0t_ji
+allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet-8bb21.opbox-sheet
+allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-18998.opbox-sheet > div > .carousel-item.mjru_ey._17d9e_7VF-Y.m3h2_56.munh_56.m7er_k4.opbox-sheet-wrapper
+allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-3d576.opbox-sheet > div:nth-of-type(2) > .carousel-item.mjru_ey._17d9e_7VF-Y.m3h2_56.munh_56.m7er_k4.opbox-sheet-wrapper > .a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet
+allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet-02c22.opbox-sheet
+allegro.pl##.mb54_5r.mli8_k4.mgmw_wo.mqu1_21.mgn2_14.mp0t_0a.m389_6m.m7f5_6m.munh_0.mryx_0.m3h2_0.mp4t_0.mj7a_16.mg9e_16.mvrt_24.mh36_24.myre_8v.mpof_ki
+allegro.pl##.mj7a_16.mb54_5r.mli8_k4.mgmw_wo.mqu1_21.mgn2_14.mp0t_0a.munh_0.mryx_0.m3h2_0.mp4t_0.mg9e_16.mvrt_24.mh36_24.myre_zn.mpof_ki
+allegro.pl##.l1fas.mqen_m6.mli8_k4.mj9z_5r.mqu1_21.mgmw_wo.mp0t_0a.mgn2_14.mj7a_16.mg9e_16.mvrt_24.mh36_24.myre_8v.mpof_ki
+allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-6a4a3.opbox-sheet
+allegro.pl##.carousel-item.mjru_ey._17d9e_7VF-Y.m3h2_56.munh_56.m7er_k4.opbox-sheet-wrapper > .a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet .mli8_k4.mgmw_wo.mqu1_21.mp0t_0a.mgn2_14 > .mj7a_8.mg9e_8
+allegro.pl##div:nth-of-type(26)
+allegro.pl##div:nth-of-type(23)
+allegro.pl##div:nth-of-type(17)
+allegro.pl##div:nth-of-type(15)
+allegro.pl##div:nth-of-type(13)
+allegro.pl##.mp4t_16.m389_6m_s.m389_6i.m7f5_sf_s.m7f5_5x.myre_8v_s.myre_6m.mpof_ki
+allegro.pl##._b1f72_cncou.mgn2_12.m389_6m.mpof_ki.l1qs9.mqen_m6.mli8_k4.mj9z_5r.mqu1_21.mgmw_wo.mp0t_0a
+allegro.pl##._b1f72_uMCy5.mryx_0.mp4t_4.mgmw_3z.mli8_k4.mqu1_16.mgn2_12.mp0t_0a
+allegro.pl##.mryx_16.gvl9v.mr3m_1.mwdn_1.mpof_ki
+
+
 
 
 
