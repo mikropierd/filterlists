@@ -412,3 +412,7 @@ kagi.com##.references-header
 kagi.com##.clipboardCopy.mr-7.align-center.flex._0_share_search_button
 kagi.com##.app_nav_dropdown.k_ui_dropdown._0_k_ui_dropdown
 kagi.com##.clipboardCopy._0_share_url_footer
+translate.kagi.com##.justify-between.items-center.flex.mb-0
+translate.kagi.com##.dark\:text-white.sm\:px-6.text-black.py-3.px-5.gap-3.justify-between.items-center.flex-wrap.flex
+translate.kagi.com##.svelte-111zzih.lg\:justify-between.lg\:flex-row.text-\[0\.8125rem\].px-6.justify-center.items-center.flex-col.min-h-16.flex
+kagi.com##.newsResultImage
