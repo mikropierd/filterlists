@@ -282,6 +282,10 @@ allegro.pl##.mwdn_1.m389_6m.mpof_ki.mgn2_12
 allegro.pl##.mvrt_8_m.mqu1_1.mzmg_f9.mzaq_1
 allegro.pl##.m389_6m.m7f5_sf.myre_8v.mpof_ki
 allegro.pl##._1e32a_rxT3z.m7er_k4 > .mwdn_1.mpof_ki
+allegro.pl###search-results:not(:has([data-analytics-view-label="BETTER_SORT_APPLIED"])):style(margin-top: -20px)
+allegro.pl###search-results [data-analytics-view-label="BETTER_SORT_APPLIED"]:has(> button):style(position: absolute !important; z-index: 2147483647 !important; top: 200px !important; background: white !important)
+allegro.pl###search-results [data-analytics-view-label="BETTER_SORT_APPLIED"]:has(> div > button):style(position: absolute !important; z-index: 2147483647 !important; top: 200px !important; background: white !important)
+allegro.pl###search-results:has([data-analytics-view-label="BETTER_SORT_APPLIED"]):style(margin-top: 90px !important)
 
 
 # SOFTARCHIVE
