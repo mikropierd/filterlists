@@ -17,22 +17,6 @@ appstorrent.ru##.virus
 appstorrent.ru##.new-comment
 appstorrent.ru##.discuss
 appstorrent.ru##.right > .right
-appstorrent.ru###cookie_modal
-appstorrent.ru##.locked
-appstorrent.ru##.footer
-appstorrent.ru##section.main-page
-appstorrent.ru##.medium.button
-appstorrent.ru##.stop_scroll_top
-appstorrent.ru###scroll_top
-appstorrent.ru##.icon-update
-appstorrent.ru##.lang
-appstorrent.ru##.related-news
-appstorrent.ru##.block-fav
-appstorrent.ru##.virus
-appstorrent.ru##.new-comment
-appstorrent.ru##.discuss > .title
-appstorrent.ru##.discuss
-appstorrent.ru##.right > .right
 
 # discussions.apple.com
 discussions.apple.com###ac-globalfooter
@@ -68,16 +52,12 @@ wikipedia.org##.cs1.journal.citation
 wikipedia.org##.mw-parser-output.mw-content-ltr > ul:nth-of-type(3) > li
 wikipedia.org###External_links
 wikipedia.org##.navbar-mini.hlist.plainlinks.navbar
-wikipedia.org##.reflist-columns-2.references-column-width.reflist-columns.reflist
 wikipedia.org##.reflist
 wikipedia.org###Further_reading
 wikipedia.org##.refbegin
 wikipedia.org##.text.external
 wikipedia.org##.cs1.web.citation
 wikipedia.org##sup.Inline-Template.noprint
-en.m.wikipedia.org###Notes
-en.m.wikipedia.org##.header-chrome.header-container
-en.m.wikipedia.org##.heading-holder.pre-content
 m.wikipedia.org###Notes
 m.wikipedia.org##.header-chrome.header-container
 m.wikipedia.org##.heading-holder.pre-content
@@ -86,8 +66,6 @@ m.wikipedia.org##.heading-holder.pre-content
 fizjoterapeuty.pl##.elementor-location-header.elementor-26278.elementor
 fizjoterapeuty.pl##.elementor-element-6ec197b9.elementor-element.elementor-top-column.elementor-col-33.elementor-column
 fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-hidden-phone.elementor-section-items-top.elementor-section-height-min-height.elementor-element-1446e3cf.elementor-element.elementor-top-section.elementor-section
-fizjoterapeuty.pl##.e-lazyloaded.elementskit-parallax-multi-container.e-parent.e-con.e-con-boxed.e-flex.elementor-element-67caa9a.elementor-element
-fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-element-5789672d.elementor-element.elementor-top-section.elementor-section
 fizjoterapeuty.pl##.is-mac.elementor-widget-image.elementor-widget.elementor-element-1403478.elementor-element
 fizjoterapeuty.pl##.is-mac.elementor-widget-heading.elementor-widget.elementor-element-a460ea1.elementor-element
 fizjoterapeuty.pl##b
@@ -148,21 +126,12 @@ github.com###issues-index-tip
 github.com##.jRFAHs.Box-sc-g0xbh4-0
 github.com##.eDcZlN.Box-sc-g0xbh4-0
 github.com##.AppHeader-CopilotChat
-github.com##.no-anim.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
 github.com##.no-anim.color-fg-muted.f6.pb-6.pt-8.footer
-github.com##.no-anim.AppHeader-CopilotChat
 github.com##.no-anim.border-bottom.mb-5.feed-right-sidebar
-github.com##.no-anim.copilotPreview__container
-github.com##.no-anim.position-relative.AppHeader-actions
-github.com##.no-anim.AppHeader-globalBar-start > deferred-side-panel.no-anim
-github.com##.no-anim.rounded-1.border.blankslate-spacious.blankslate
-github.com##.no-anim.flex-items-center.flex-justify-between.d-flex.my-3
-github.com##div.no-anim.react-code-size-details-in-header
 github.com##.position-relative.pt-6.footer
 github.com##.font-mktg
 github.com##.jEnfAc.Box-sc-g0xbh4-0
 ! Mar 28, 2025 https://github.com
-github.com##.position-relative.pt-6.footer
 github.com##.px-3.mt-5.container-lg
 github.com##.copilotPreview__container
 github.com##feed-container
@@ -207,17 +176,9 @@ github.com###\:r2k\:
 github.com###\:r1j\:
 github.com##.mr-1.Button.Button--small.Button--secondary
 github.com##.bkMpmX.Box-sc-g0xbh4-0
-github.com###actions-tab
-github.com###pull-requests-tab
-github.com###insights-tab
-github.com###security-tab
-github.com##.AppHeader-CopilotChat
-github.com##.position-relative.AppHeader-actions
 github.com##.flex-wrap.d-flex.SearchBarActions-module__gap8--htEVL.SearchBarActions-module__buttons--N7M2V
-github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
 github.com##.float-none.px-2.BtnGroup-item.btn.btn-sm
 github.com##.prc-components-UnderlineWrapper-oOh5J.iphEWz.Box-sc-g0xbh4-0
-github.com##.bVgnfw.Box-sc-g0xbh4-0
 github.com##.d-md-block.d-none.mr-1.v-align-middle.Label--secondary.Label
 github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(1)
 github.com###\:r1n\:
@@ -261,8 +222,6 @@ userstyles.world##.Footer
 
 # kagi.com
 kagi.com##.xl\:flex-row.flex-column.justify-between.align-center.flex.mt-a.app-footer
-kagi.com##DIV:nth-child(7)>FOOTER:nth-child(3)>DIV:nth-child(1)
-kagi.com##div:nth-child(7) > footer:nth-child(3) > div:nth-child(1)
 
 # freedium.cfd
 freedium.cfd###header
@@ -316,12 +275,10 @@ softarchive.is##.header__inner_justify_end.header__inner
 softarchive.is##.view-setup
 softarchive.is##.firstr
 softarchive.is###\30
-softarchive.is##.clear.site_footer
 
 # HYPERREAL
 
 hyperreal.info##.d-lg-none
-hyperreal.info###page-body > div.row > .col-lg-3
 hyperreal.info##.mb-3.shadow-sm.border.bg1.navbar-light.navbar-expand-md.navbar
 hyperreal.info##.order-lg-last.order-first.col-lg-9 > div.card > .card-body
 hyperreal.info###nav-breadcrumbs
@@ -334,11 +291,7 @@ hyperreal.info##body > div.row
 hyperreal.info##.alert-warning.alert
 hyperreal.info##.d-lg-block.d-none
 hyperreal.info##.justify-content-end.mb-md-0.mb-1.navbar-light.navbar-expand-md.navbar
-hyperreal.info##.mb-3.shadow-sm.border.bg1.navbar-light.navbar-expand-md.navbar
-hyperreal.info##div#page-footer.justify-content-md-between.d-md-flex.px-3.mb-3.page-footer
 hyperreal.info##.col-lg-3
-hyperreal.info##.alert-warning.alert
-hyperreal.info##.d-lg-none
 hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(7)
 hyperreal.info##.alert-info.alert
 hyperreal.info##.w-100.form-control
@@ -394,7 +347,6 @@ red.artemislena.eu##footer
 red.artemislena.eu###commentQueryForms
 red.artemislena.eu##.post_footer
 red.artemislena.eu##.comment_score
-red.artemislena.eu##.no_thumbnail.post_thumbnail
 red.artemislena.eu##[href="/r/Nootropics/controversial"]
 red.artemislena.eu##[href="/r/Nootropics/rising"]
 red.artemislena.eu##.post_score
@@ -417,11 +369,6 @@ kagi.com##footer
 kagi.com##.clipboardCopy._0_share_url_footer
 kagi.com##._0_filters-panel
 kagi.com##.paywall-icon.new-tooltip.trigger
-kagi.com##.app_nav_dropdown.k_ui_dropdown._0_k_ui_dropdown
-kagi.com##.clipboardCopy.mr-7.align-center.flex._0_share_search_button
-kagi.com###top-parent
-kagi.com##.clipboardCopy._0_share_url_footer
-kagi.com##footer
 kagi.com##.top-panel-box.app-content-box
 kagi.com###additional_info > [href]
 kagi.com##.doc_title_box
