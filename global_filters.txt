@@ -411,7 +411,6 @@ piped.video##.ml-1.i-fa6-solid\:check
 # REDLIB
 red.artemislena.eu###reddit_link
 red.artemislena.eu###logo
-red.artemislena.eu##footer
 red.artemislena.eu###commentQueryForms
 red.artemislena.eu##.post_footer
 red.artemislena.eu##.comment_score
