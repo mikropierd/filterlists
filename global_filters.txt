@@ -361,7 +361,6 @@ hyperreal.info##.justify-content-end.mb-md-0.mb-1.navbar-light.navbar-expand-md.
 hyperreal.info##.col-lg-3
 hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(7)
 hyperreal.info##.alert-info.alert
-hyperreal.info##.w-100.form-control
 hyperreal.info##.card-header
 hyperreal.info##.active.dropdown-toggle.btn-primary.btn
 hyperreal.info##.shadow-sm.text-center.text-white.border-white.border.bg-primary.rounded-circle.timeline-icon
