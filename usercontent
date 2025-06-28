@@ -1,0 +1,75 @@
+body,
+html {
+    background-color: transparent !important;
+    background: transparent !important;
+}
+
+@media all {
+  /* Style tylko dla multimediów */
+  img, video, iframe, canvas,
+  [class*="thumbnail"], [class*="avatar"],
+  [class*="image"], [class*="picture"],
+  [class*="preview"], [class*="poster"] {
+    filter: saturate(115%) !important;
+    border-radius: 12px !important;
+    box-shadow: none !important;
+  }
+
+  /* Przeciwdziałanie przyciemnianiu tylko dla elementów multimedialnych */
+  img:hover, video:hover,
+  [class*="thumbnail"]:hover,
+  [class*="preview"]:hover,
+  [class*="poster"]:hover,
+  [class*="video"]:hover {
+    filter: brightness(100%) !important;
+    opacity: 1 !important;
+  }
+
+  /* Usunięcie nakładek przyciemniających na miniaturach */
+  [class*="thumbnail"] > [class*="overlay"],
+  [class*="video"] > [class*="overlay"],
+  [class*="card"] > [class*="overlay"],
+  [class*="thumbnail"]:after,
+  [class*="thumbnail"]:before {
+    background: none !important;
+    background-color: transparent !important;
+    opacity: 0 !important;
+  }
+
+
+
+  /* Wyłączenie efektów YouTube - tylko specyficzne elementy */
+  .ytp-gradient-top,
+  .ytp-gradient-bottom,
+  .ytp-ce-shadow,
+  .ytp-ce-covering-overlay,
+  .ytp-ce-covering-image[style*="background"] {
+    background: none !important;
+    background-image: none !important;
+    box-shadow: none !important;
+  }
+}
+
+  /* Wyłączenie animacji i przejść */
+  * {
+    transition: none !important;
+    transition-property: none !important;
+    transition-duration: 0s !important;
+    transition-delay: 0s !important;
+    transition-timing-function: initial !important;
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+    animation-delay: none !important;
+    animation-duration: none !important;
+    -webkit-animation-delay: 0 !important;
+    -webkit-animation-duration: 0 !important;
+    -moz-animation-delay: 0 !important;
+    -moz-animation-duration: 0 !important;
+    -o-animation-delay: 0 !important;
+    -o-animation-duration: 0 !important;
+    scroll-behavior: auto !important;
+    marquee-style: none !important;
+    -moz-scroll-behavior: auto !important;
+    -moz-marquee-style: none !important;
+  }
