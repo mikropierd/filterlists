@@ -244,40 +244,6 @@ softarchive.is##.view-setup
 softarchive.is##.firstr
 softarchive.is###\30
 
-# HYPERREAL
-
-hyperreal.info##.d-lg-none
-hyperreal.info##.mb-3.shadow-sm.border.bg1.navbar-light.navbar-expand-md.navbar
-hyperreal.info##.order-lg-last.order-first.col-lg-9 > div.card > .card-body
-hyperreal.info###nav-breadcrumbs
-hyperreal.info##div#page-footer.justify-content-md-between.d-md-flex.px-3.mb-3.page-footer
-hyperreal.info##.panel-title
-hyperreal.info##.active.carousel-item > .slider-inner.row > .col-xs-8.col-lg-9.col-sm-9.col-md-9 > p.lead:nth-of-type(1)
-hyperreal.info##.karuzela-text
-hyperreal.info##.fa-5x.hicon-hyperreal
-hyperreal.info##body > div.row
-hyperreal.info##.alert-warning.alert
-hyperreal.info##.d-lg-block.d-none
-hyperreal.info##.justify-content-end.mb-md-0.mb-1.navbar-light.navbar-expand-md.navbar
-hyperreal.info##.col-lg-3
-hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(7)
-hyperreal.info##.alert-info.alert
-hyperreal.info##.card-header
-hyperreal.info##.active.dropdown-toggle.btn-primary.btn
-hyperreal.info##.shadow-sm.text-center.text-white.border-white.border.bg-primary.rounded-circle.timeline-icon
-hyperreal.info##.mb-1.ms-1.btn-group
-hyperreal.info##.post-title
-hyperreal.info##div.d-flex > .border-0.rounded-0.btn-lg.dropdown-toggle.btn
-hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(4) > .bg1.justify-content-between.d-sm-flex.action-bar > div.d-flex:nth-of-type(1) > form:nth-of-type(1)
-hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(4) > .bg1.justify-content-between.d-sm-flex.action-bar > div.d-flex:nth-of-type(1) > .border-0.rounded-0.btn-lg.btn
-hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(6) > .bg1.justify-content-between.d-sm-flex.action-bar > div.d-flex:nth-of-type(1) > form:nth-of-type(1)
-hyperreal.info##div.shadow-sm.mb-3.card:nth-of-type(6) > .bg1.justify-content-between.d-sm-flex.action-bar > div.d-flex:nth-of-type(1) > .border-0.rounded-0.btn-lg.btn
-hyperreal.info##div.mx-auto.col-4.d-grid > .btn-secondary.btn
-hyperreal.info##.fa-fw.fa-file-o.fa
-hyperreal.info##.d-md-none
-hyperreal.info##.shadow-sm.rounded-circle.border-white.border.overflow-hidden.position-relative.timeline-icon
-hyperreal.info##.bg1.pb-0.p-2.nav-tabs.nav
-
 
 # PIPED
 piped.video##.children\:mx-3.text-center.py-4.rounded-xl.w-full.mt-10
@@ -491,7 +457,6 @@ hyperreal.info##.bookmark-link.btn-primary.btn
 hyperreal.info##.mb-1.ms-1.btn-group
 hyperreal.info##div.d-flex > .border-0.rounded-0.btn-lg.dropdown-toggle.btn
 hyperreal.info###nav-breadcrumbs
-hyperreal.info##.bg1.justify-content-between.d-sm-flex.action-bar
 hyperreal.info##body > div.row
 hyperreal.info##.px-lg-3.px-md-2.px-1.container-fluid > div.row > .d-lg-block.d-none
 hyperreal.info##.bg-info.badge
