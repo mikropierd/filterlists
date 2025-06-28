@@ -120,13 +120,6 @@ allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_
 allegro.pl##.mryx_48.msts_jz.mjb5_w1.mj7u_0.mqm6_0.mnjl_0.mq1m_0.mp7g_oz
 allegro.pl##aside
 
-
-# gist.github.com
-gist.github.com##.js-quote-selection-container
-gist.github.com##.d-inline-flex.flex-items-center
-gist.github.com##.js-remove-unless-platform.Button--small.Button--secondary.Button--iconOnly.Button
-gist.github.com##.gistsearch-aside.col-4
-
 # www.icloud.com
 www.icloud.com##header
 www.icloud.com##.footer
@@ -237,10 +230,6 @@ allegro.pl##.bc1xx8.mse2_40.meqh_en
 allegro.pl##.msts_n7.mp4t_0.mgmw_wo.mryx_16.m9qz_yo.mgn2_21_s.mgn2_19.mqu1_1j.m3h2_0.munh_0.mp0t_ji
 allegro.pl##.a883q.mh36_24_l.mj7a_24_l.mvrt_24_l.mg9e_24_l.mh36_16.mj7a_16.mvrt_16.mg9e_16.msts_pt.card.msts_n7._17d9e_Ww88Y.opbox-sheet-8bb21.opbox-sheet
 allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-18998.opbox-sheet > div > .carousel-item.mjru_ey._17d9e_7VF-Y.m3h2_56.munh_56.m7er_k4.opbox-sheet-wrapper
-
-
-
-
 
 
 # SOFTARCHIVE
@@ -407,3 +396,105 @@ spankbang.com##.top-wrapper
 spankbang.com##.links
 spankbang.com##.logo
 spankbang.com##.switches
+
+! Jun 26, 2025 https://spankbang.com
+spankbang.com##.my-4
+spankbang.com###browse_new > .mt-4.main_content_container
+
+! Jun 26, 2025 https://www.pornhub.com
+www.pornhub.com##.uploadBtnContent
+
+! Jun 26, 2025 https://spankbang.com
+spankbang.com##.justify-between.items-center.w-full.flex.mt-4
+
+! Jun 26, 2025 https://www.pornhub.com
+www.pornhub.com##.clearfix.thumbnail-info-wrapper
+www.pornhub.com##.latestThumbDesign.sectionWrapper.frontListingWrapper > .sectionWrapper
+www.pornhub.com##.videoGridTabs
+www.pornhub.com##.ctasActionMenu.video-actions-menu
+www.pornhub.com##.original.latestThumbDesign.js-videosTabContent.relatedVideos.js-relatedVideos.js-relatedRecommended.video-wrapper
+www.pornhub.com##.original.sideColumn
+www.pornhub.com##.reset
+www.pornhub.com##.networkTab
+www.pornhub.com##div.headerContainerColumn:nth-of-type(1)
+www.pornhub.com##div.headerContainerColumn:nth-of-type(3)
+#www.pornhub.com##.mgp_eventCatcher
+www.pornhub.com##.mgp_visible.mgp_hotspotsGraph
+www.pornhub.com##.video-actions-container
+www.pornhub.com###under-player-comments
+www.pornhub.com##.title-container
+www.pornhub.com##.footerContentWrapper
+www.pornhub.com###under-player-playlists
+www.pornhub.com##.wide.latestThumbDesign.js-videosTabContent.relatedVideos.js-relatedVideos.js-relatedRecommended.video-wrapper
+www.pornhub.com##.akj1foqhr4hoagdxrbj5f
+www.pornhub.com##.mgp_contextMenu
+www.pornhub.com##.mgp_active.mgp_cinema
+www.pornhub.com/view_video.php?viewkey=###header
+www.pornhub.com##.mgp_cinema
+
+! Jun 26, 2025 https://spankbang.com
+spankbang.com##.justify-between.items-center.w-full.flex.main_content_container
+
+! Jun 26, 2025 https://www.pornhub.com
+www.pornhub.com##.tooltipTrig.languageType.hideOnPreview.bgShadeEffect
+www.pornhub.com##.tooltipTrig.duration.bgShadeEffect
+www.pornhub.com##.mgp_controlBarBackground
+
+! Jun 26, 2025 https://spankbang.com
+spankbang.com##.vjs-button.vjs-control.vjs-fullscreen-control
+
+! Jun 26, 2025 https://www.pornhub.com
+#www.pornhub.com##.mgp_fullscreen
+
+! Jun 26, 2025 https://spankbang.com
+spankbang.com##.vjs-big-play-button
+
+! Jun 26, 2025 https://www.pornhub.com
+www.pornhub.com##.mgp_fullscreenIcon.mgp_icon
+
+! Jun 26, 2025 https://pmvhaven.com
+pmvhaven.com##.hidden-sm-and-down.subheader
+pmvhaven.com##.footer.v-theme--dark.v-footer
+
+! Jun 26, 2025 https://spankbang.com
+spankbang.com##.vjs-loading-spinner
+
+! Jun 26, 2025 https://pmvhaven.com
+pmvhaven.com##.bimbim-banner-wrapper
+
+! Jun 27, 2025 https://pmvhaven.com
+pmvhaven.com##.mt-5.v-row
+pmvhaven.com##.fluid_initial_play
+pmvhaven.com##p.pr-1.pl-1.mb-0.pb-0
+pmvhaven.com##.v-card--variant-elevated.rounded-0.v-card--density-default.v-theme--dark.v-card--flat.v-card
+pmvhaven.com##.ma-0.pa-2.v-card-title
+
+! https://pmvhaven.com
+
+! https://pmvhaven.com
+pmvhaven.com##.v-responsive__content
+
+! https://hyperreal.info
+hyperreal.info##.d-lg-none
+hyperreal.info##.folder.col-12.col-md-6.col-lg-7 > .row
+hyperreal.info###page-body > div.row > .col-lg-3
+hyperreal.info##.order-lg-last.order-first.col-lg-9 > div.card > .card-body
+hyperreal.info##div#page-footer.justify-content-md-between.d-md-flex.px-3.mb-3.page-footer
+hyperreal.info###navbar-collapse-footer
+hyperreal.info##.bg1.pb-0.p-2.nav-tabs.nav
+hyperreal.info##strong
+hyperreal.info##.forum_unread.bg1.align-items-center.p-1.mt-1.m-0.row > .folder.col-12.col-md-6.col-lg-7 > [href^="https://hyperreal.info/talk/memberlist.php"]
+hyperreal.info##.card-header
+hyperreal.info##.tab-content.card-body
+hyperreal.info##.alert-warning.alert
+hyperreal.info##.bookmark-link.btn-primary.btn
+hyperreal.info##.mb-1.ms-1.btn-group
+hyperreal.info##div.d-flex > .border-0.rounded-0.btn-lg.dropdown-toggle.btn
+hyperreal.info###nav-breadcrumbs
+hyperreal.info##.bg1.justify-content-between.d-sm-flex.action-bar
+hyperreal.info##body > div.row
+hyperreal.info##.px-lg-3.px-md-2.px-1.container-fluid > div.row > .d-lg-block.d-none
+hyperreal.info##.bg-info.badge
+hyperreal.info###page-body > div.row > .d-lg-block.d-none
+
+
